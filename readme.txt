@@ -1,5 +1,5 @@
 === PhraseMatch ===
-Contributors: codethatfits
+Contributors: CodeThatFits
 Tags: search, replace, content, bulk edit, phrase removal
 Requires at least: 5.8
 Tested up to: 6.9
