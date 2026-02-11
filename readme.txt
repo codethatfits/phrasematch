@@ -42,10 +42,6 @@ No. PhraseMatch is block-aware and removes the entire block when appropriate, ke
 
 PhraseMatch modifies post content directly. It is recommended to back up your database before performing bulk removals. You can also use WordPress revisions to restore individual posts.
 
-== Screenshots ==
-
-1. The PhraseMatch admin scan interface.
-
 == Changelog ==
 
 = 1.0.0 =
